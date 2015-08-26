@@ -8,3 +8,16 @@ height: 45px;
 margin: 0 9px;
 border-right: 5px solid #078dff;
 }
+
+.head {
+	color: #aaa;
+	font-family: 'Indie Flower', cursive;
+}
+
+.body-text {
+	color: #078dff;
+	font-family: 'Indie Flower', cursive;
+	font-size: 200%;
+}
+
+body{background:#aaa;}
