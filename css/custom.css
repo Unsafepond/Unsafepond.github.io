@@ -2,3 +2,9 @@ html body .navbar .navbar-inner {
     color: #078dff;
     font-family: 'Rock Salt', cursive;
 }
+
+.navbar .divider-vertical {
+height: 50px;
+margin: 0 9px;
+border-right: 5px solid #078dff;
+}
