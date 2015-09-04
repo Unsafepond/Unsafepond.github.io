@@ -20,4 +20,12 @@ border-right: 5px solid #078dff;
 	font-size: 200%;
 }
 
+button .navbar-butt{
+  padding:5px;
+  background-color: #dcdcdc;
+  border: 1px solid #666;
+  color:#000;
+  text-decoration:none;
+}
+
 body{background:#aaa;}
